@@ -1,0 +1,25 @@
+---
+- !ruby/object:Game
+  guesses:
+    I: true
+    M: true
+    P: true
+    A: true
+    Y: false
+    L: false
+    D: false
+  secret_word: " NEU  T CS"
+  secret_word_array:
+  - " "
+  - N
+  - E
+  - U
+  - " "
+  - " "
+  - T
+  - " "
+  - C
+  - S
+  display: " P _ _ _ M A _ I _ _"
+  remaining_word: " NEU  T CS"
+  incorrect_guesses_remaining: 7

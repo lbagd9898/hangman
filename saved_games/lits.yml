@@ -1,0 +1,15 @@
+---
+- !ruby/object:Game
+  guesses: {}
+  secret_word: OLYMPUS
+  secret_word_array:
+  - O
+  - L
+  - Y
+  - M
+  - P
+  - U
+  - S
+  display: " _ _ _ _ _ _ _"
+  remaining_word: OLYMPUS
+  incorrect_guesses_remaining: 10
